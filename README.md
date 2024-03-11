@@ -80,10 +80,10 @@
 </div><br>
 </div>
  -->
-    
+ <br /><br />   
 <div align="left">
     
-##☑️ GitHub Stats:
+## ☑️ GitHub Stats:
 </div>
 <a href="https://github.com/xiexiehanoi/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiexiehanoi&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
@@ -98,8 +98,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xiexiehanoi&theme=swift&hide_border=false&include_all_commits=false&count_private=true" alt="xiexiehanoi" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xiexiehanoi&theme=swift&hide_border=false" alt="xiexiehanoi" /></p> -->
 <br></br>
-
-![snake gif](https://github.com/xiexiehnaoi/xiexiehnaoi/blob/output/github-contribution-grid-snake.svg)
 <!--
 **xiexiehanoi/xiexiehanoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
