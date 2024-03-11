@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center">             
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Xin+chào+欢迎欢迎+xiexiehaoni's+GitHub!👋)](https://git.io/typing-svg)
@@ -8,9 +8,12 @@
     <a href="mailto:ksw593@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
-    <a href="https://blog.naver.com/ksw593">
-      <img src="https://img.shields.io/badge/NaverBlog-E4405F?style=for-the-badge&logo=NaverBlog&logoColor=white"> 
+    <a href="https://blog.naver.com/ksw593" style="background-color: green; padding: 5px; display: inline-block;">
+      <img src="https://img.shields.io/badge/NaverBlog-2ECB71?style=for-the-badge&logo=Naver Blog&logoColor=white" alt="NaverBlog" />
     </a>
+
+
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 
 </div><br>
 
@@ -78,6 +81,7 @@
 </div><br>
 
 <div align="left">
+    
 ☑️ GitHub Stats:
 </div>
 
