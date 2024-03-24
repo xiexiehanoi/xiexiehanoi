@@ -98,6 +98,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xiexiehanoi&theme=swift&hide_border=false&include_all_commits=false&count_private=true" alt="xiexiehanoi" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xiexiehanoi&theme=swift&hide_border=false" alt="xiexiehanoi" /></p> -->
 <br></br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=xiexiehanoi&theme=flat&column=8)](https://github.com/xiexiehanoi)
+
+
 <!--
 **xiexiehanoi/xiexiehanoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
