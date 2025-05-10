@@ -4,18 +4,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Xin+chào+欢迎欢迎+xiexiehaoni's+GitHub!👋)](https://git.io/typing-svg)
 
 ## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:ksw593@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-    <a href="https://blog.naver.com/ksw593" style="background-color: green; padding: 5px; display: inline-block;">
-      <img src="https://img.shields.io/badge/NaverBlog-2ECB71?style=for-the-badge&logo=Naver Blog&logoColor=white" alt="NaverBlog" />
-    </a>
 
-
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
-
-</div><br>
+[![Gmail](https://img.shields.io/badge/Gmail-%23FFFFFF?style=for-the-badge&logo=gmail&logoColor=%23D14836&labelColor=%23FFFFFF)](mailto:ksw593@gmail.com)  
+[![Naver Blog](https://img.shields.io/badge/NaverBlog-%23FFFFFF?style=for-the-badge&logo=naver&logoColor=%2303C75A&labelColor=%23FFFFFF)](https://blog.naver.com/ksw593)
+<br>
 
  
 <div align="left">
